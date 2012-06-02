@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Modify 1 and 8:
-=======
-Modify 8:
->>>>>>> refs/heads/b201206021105
 
 
                         CYPRESS SEMICONDUCTOR CORPORATION
