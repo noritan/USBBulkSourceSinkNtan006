@@ -1,4 +1,4 @@
-Modify 1 and 8:
+Modify 1, 7 and 8:
 
 
                         CYPRESS SEMICONDUCTOR CORPORATION
