@@ -1,4 +1,4 @@
-Modify 12:
+Modify 13:
 
 
                         CYPRESS SEMICONDUCTOR CORPORATION
@@ -9,7 +9,7 @@ USB BULK SOURCE SINK EXAMPLE
 
   This example illustrates the use of the FX3 firmware APIs to implement
   a data source and data sink over a pair of USB Bulk endpoints.
-
+  
   The device enumerates as a vendor specific USB device with a pair of Bulk
   endpoints (1-OUT and 1-IN). The OUT endpoint acts as data sink and the IN
   endpoint acts as data source to the PC Host.
